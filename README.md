@@ -1,15 +1,29 @@
 # Olá, me chamo Rodrigo
-- Engenheiro Civil
+- Engenheiro Civil especialista em estruturas de concreto e fundações
 - Estudante de Sistemas de Informação
 - Estudando Java
-- Interessado em CyberSegurança
+- Interessado em Backend e CyberSegurança
 
 ## Redes Sociais
-<a href="https://instagram.com/rodrigo.folhaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rodrigo-folha-moreira-a3bb17189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/rodrigo.folhaa)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigofolha/)
 
 ## Linguagens
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+
+<div align="center">
+<a href="https://github.com/rodrigo-folha">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-folha&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-folha&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+
+
+</div>
