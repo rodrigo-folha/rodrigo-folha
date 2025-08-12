@@ -1,22 +1,23 @@
-# Olá, me chamo Rodrigo
-- Estudante de Sistemas de Informação
-- Interessado em Desenvolvimento de Sistemas, Backend e DevOps 
+## Olá, me chamo Rodrigo 👋  
 
-## Redes Sociais
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigofolha/)
+👨‍💻 **Software Engineer | Backend Developer**  
+💡 Especializado em desenvolvimento backend com **Java, Spring Boot & Quarkus**  
 
-## Linguagens
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
-![Quarkus](https://img.shields.io/badge/Quarkus-000?style=for-the-badge&logo=quarkus)
-![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+### 🛠 **Tecnologias que uso e domino:**  
+- 🚀 **Linguagens:** Java, Python, JavaScript, TypeScript  
+- 🗄️ **Banco de dados:** PostgreSQL, MySQL, MongoDB  
+- 🔑 **Autenticação & Segurança:** JWT, OAuth2, Keycloak 
+- 🛠️ **Frameworks & ORMs:** Spring Boot, Quarkus, JSF, PrimeFaces, Hibernate
+- 🏗️ **Infraestrutura & DevOps:** Docker, Kubernetes, AWS (EC2), RabbitMQ, Kafka 
+- 🔄 **Versionamento & Colaboração:** Git, GitHub
+- 📊 **Outros:** Power BI, Web Scraping, N8N, Automação de Processos
+- ☁ **Cloud Solutions Enthusiast**  
 
+📬 **Contato:**  
+📧 E-mail: [rodrigofomo@gmail.com](mailto:rodrigofomo@gmail.com)  
+🔗 LinkedIn: [Meu Perfil](https://linkedin.com/in/rodrigofolha)  
 
+✨ "O progresso nasce da persistência, e cada obstáculo é apenas um passo para o próximo nível." ✨  
 
 <div align="center">
 <a href="https://github.com/rodrigo-folha">
