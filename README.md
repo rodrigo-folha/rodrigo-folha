@@ -14,7 +14,6 @@
 - ☁ **Cloud Solutions Enthusiast**  
 
 📬 **Contato:**  
-📧 E-mail: [rodrigofomo@gmail.com](mailto:rodrigofomo@gmail.com)  
 🔗 LinkedIn: [Meu Perfil](https://linkedin.com/in/rodrigofolha)  
 
 ✨ "O progresso nasce da persistência, e cada obstáculo é apenas um passo para o próximo nível." ✨  
