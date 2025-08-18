@@ -1,11 +1,11 @@
 ## Olá, me chamo Rodrigo 👋  
 
-👨‍💻 **Software Engineer | Backend Developer**  
-💡 Especializado em desenvolvimento backend com **Java, Spring Boot & Quarkus**  
+👨‍💻 **Software Engineer | Full Stack Developer**  
+💡 Especializado em desenvolvimento backend com **Java, Spring Boot & Quarkus** e frontend com **React & Angular**
 
 ### 🛠 **Tecnologias que uso e domino:**  
 - 🚀 **Linguagens:** Java, Python, JavaScript, TypeScript  
-- 🗄️ **Banco de dados:** PostgreSQL, MySQL, MongoDB  
+- 🗄️ **Banco de dados:** PostgreSQL, MySQL, MongoDB, Redis
 - 🔑 **Autenticação & Segurança:** JWT, OAuth2, Keycloak 
 - 🛠️ **Frameworks & ORMs:** Spring Boot, Quarkus, JSF, PrimeFaces, Hibernate
 - 🏗️ **Infraestrutura & DevOps:** Docker, Kubernetes, AWS (EC2), RabbitMQ, Kafka 
